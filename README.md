@@ -1,2 +1,3 @@
-# polish_calculator
-Evaluate calculation Polish way
+# polish calculator
+
+Functional programing primer. Polish calulator using a stack
